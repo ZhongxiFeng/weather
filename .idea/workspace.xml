@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e0b8b22-bbb1-44ea-956f-390ddaade5b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/command.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties/search-hytrix.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties/student-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/properties/university-service-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/src/main/java/com/example/searchhytrix/SearchHytrixApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-hytrix/src/test/java/com/example/searchhytrix/SearchHytrixApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/config/EndPointConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/config/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/response/GeneralResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/response/ResponseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/service/MySearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/service/MySearchServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/StudentServiceDevApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/controller/TeacherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/controller/TeacherStudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/handler/exceptionHandler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/pojo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/pojo/TeacherStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/repository/TeacherRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/repository/TeacherStudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/response/GeneralResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/response/ResponseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/service/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/service/TeacherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/service/TeacherStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/java/com/example/studentservicedev/service/TeacherStudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student-service-10000/src/test/java/com/example/studentservicedev/StudentServiceDevApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/java/com/example/swagger/SwaggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swagger/src/test/java/com/example/swagger/SwaggerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/UniversityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/UniversityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/UniversityServiceDevApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/UniversityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/response/GeneralResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/java/com/example/universityservicedev/response/ResponseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/university-service-10001/src/test/java/com/example/universityservicedev/UniversityServiceDevApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/example/common/domain/GeneralResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/example/common/domain/GeneralResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/properties/gateway-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/properties/gateway-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/properties/search-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/properties/search-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/search/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/src/main/java/com/example/search/SearchApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/SearchApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/src/main/java/com/example/search/controller/SearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/search/src/main/java/com/example/search/controller/SearchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search/src/main/resources/bootstrap.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="db Properties" />
+        <option value="bootstrap" />
+        <option value="spring-cloud-bootstrap" />
+        <option value="Interface" />
+        <option value="spring-cloud-application" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d755eb2e-d2b8-4db6-a8bf-0d759fbaecdf" />
+        <option name="url" value="https://github.com/BananaAppleBanana/weather.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Programming\maven\maven_local_repos" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Programming/maven/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\Programming\maven\maven_local_repos\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RTv6h2GoGLvUTIwWUw6FNyunTg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/Programming_Data/Intellij_projects/Self_learning/weather/search/src/main/java/com/example/search",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15650119",
+    "project.structure.side.proportion": "0.2519685",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "4c174925af7df6d6e6bb03d63eeebde2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.common.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming_Data\Intellij_projects\Self_learning\weather\search\src\main\java\com\example\search" />
+      <recent name="D:\Programming_Data\Intellij_projects\Self_learning\weather\university-service-10001\src\main\java\com\example\universityservicedev" />
+      <recent name="D:\Programming_Data\Intellij_projects\Self_learning\weather\university-service-dev\src\main\java\com\example\universityservicedev" />
+      <recent name="D:\Programming_Data\Intellij_projects\Self_learning\weather\student-service-dev\src\main\java\com\example\studentservicedev" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.config" />
+      <recent name="com.example.search.config" />
+      <recent name="com.example.studentservicedev.response" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ls" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchApplication">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetailsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="details" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.details.DetailsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discovery.DiscoveryServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceDevApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="student-service-10000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.studentservicedev.StudentServiceDevApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.swagger.SwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversityServiceDevApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="university-service-10001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.universityservicedev.UniversityServiceDevApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
